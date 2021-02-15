@@ -55,7 +55,7 @@ class App : Application(), ClipboardManager.OnPrimaryClipChangedListener {
         appContext = applicationContext
         val clipboardManager = getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
         clipboardManager.addPrimaryClipChangedListener(this)
-        KotlinPGP.header += "Comment" to "Encrypted with https://tessercube.com/"
+        KotlinPGP.header += "Comment" to "Encrypted with TessercubeDV"
         KotlinPGP.header += ArmoredOutputStream.VERSION_HDR to null
     }
 
