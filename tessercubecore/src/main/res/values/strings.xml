@@ -1,5 +1,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" translatable="false">Tessercube</string>
+    <string name="app_name" translatable="false">TessercubeDV</string>
     <string name="pgp_public_key_start" translatable="false">-----BEGIN PGP PUBLIC KEY BLOCK-----</string>
     <string name="pgp_private_key_start" translatable="false">-----BEGIN PGP PRIVATE KEY BLOCK-----</string>
     <string name="pgp_signed_message_start" translatable="false">-----BEGIN PGP SIGNED MESSAGE-----</string>
