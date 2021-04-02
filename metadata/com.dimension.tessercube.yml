@@ -1,5 +1,5 @@
 
-Name: Tessercube
+Name: TessercubeDV
 
 # Categories (one per line, each starting with a space and a minus), chosen from the
 # official list: https://gitlab.com/fdroid/fdroiddata/blob/master/stats/categories.txt
@@ -14,7 +14,7 @@ License: AGPL-3.0
 WebSite: https://tessercube.com/
 
 # A link to the issue tracker where bugs are reported
-IssueTracker: https://github.com/DimensionDev/Tessercube-Android/issues
+IssueTracker: https://github.com/SecretestSquirrel/TesserPG-Android/issues
 
 # One sentence, no more than 30-50 chars, no trailing punctuation,
 # focus on actions what the users does with the app, e.g. "Read and
@@ -27,7 +27,7 @@ Description: |
 RepoType: git
 
 # source code repo URL (HTTPS required)
-Repo: https://github.com/DimensionDev/Tessercube-Android.git
+Repo: https://github.com/SecretestSquirrel/TesserPG-Android.git
 
 Builds:
   - versionName: '1.0'
