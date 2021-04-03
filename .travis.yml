@@ -14,4 +14,4 @@ before_install:
   - chmod +x ./gradlew
 script:
   - echo y | sdkmanager "ndk-bundle" "platforms;android-28"
-  - ./gradlew assembleDebug
+  - ./gradlew assemble
