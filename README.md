@@ -18,15 +18,15 @@ Requirement:
 
 Clone the project
 ```
-git clone https://sovereignty.tools/Diverter/TessercubeDV-Android.git
+git clone https://sovereignty.tools/Diverter/Tesserpg-Android.git
 ```
 We're using a modified version of LatinIME as a submodule, so we need to initial the subtoolses
 ```
 git submodule update --init --recursive
 ```  
-You can run a debug build using
+You can build using
 ```
-./gradlew assembleDebug
+./gradlew assemble
 ```
 
 # Dependency
