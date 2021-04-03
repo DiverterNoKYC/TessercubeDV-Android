@@ -25,7 +25,7 @@ build_script:
   - unset JAVA_TOOL_OPTIONS
   - echo y | sdkmanager "ndk-bundle" "build-tools;${ANDROID_SDK_TOOLS}" "platform-tools" "platforms;android-${ANDROID_COMPILE_SDK}"
   - chmod +x ./gradlew
-  - ./gradlew assembleDebug
+  - ./gradlew assemble
   
 artifacts:
 - path: '**\*.apk'
