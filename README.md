@@ -1,18 +1,11 @@
-# Tessercube
+# TessercubeDV
 OpenPGP Made Mobile
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.dimension.tessercube/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.dimension.tessercube)
-
 # Fully OpenPGP
-Tessercube abides to common standards of OpenPGP.
+TessercubeDV abides to common standards of OpenPGP.
 
 # Encryption Made Everywhere
-Use OpenPGP in any app with Tessercube keyboard.
+Use OpenPGP in any app with TessercubeDV keyboard.
 
 # Messages Made Trackable
 Never fail finding previous messages.
@@ -25,9 +18,9 @@ Requirement:
 
 Clone the project
 ```
-git clone https://github.com/DimensionDev/Tessercube-Android.git
+git clone https://sovereignty.tools/Diverter/TessercubeDV-Android.git
 ```
-We're using a modified version of LatinIME as a submodule, so we need to initial the submodules
+We're using a modified version of LatinIME as a submodule, so we need to initial the subtoolses
 ```
 git submodule update --init --recursive
 ```  
