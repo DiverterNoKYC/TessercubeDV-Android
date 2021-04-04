@@ -23,23 +23,23 @@
     <string name="error_private_key_empty">Private key can not be empty!</string>
     <string name="error_import_private_key">Import error, please check again</string>
     <string name="compose_without_signature">No signature</string>
-    <string name="error_compose_no_receiver">Please at least add one recipient</string>
+    <string name="error_compose_no_receiver">Please add at least one recipient</string>
     <string name="warning_compose_no_signature">Continue without signing?</string>
     <string name="error_interpret_empty_content">Interpret content can not be empty</string>
     <string name="error_interpret_private_key_mismatch">Can not decrypt because you don\'t have the right private key</string>
     <string name="intro_add_contact_title">Add your first contact</string>
-    <string name="intro_add_contact_desc">You do not have any contact yet. Add contacts by importing their public key</string>
+    <string name="intro_add_contact_desc">You do not have any contacts yet. Make some friends and import their public key</string>
     <string name="intro_create_key_title">Create your first Key</string>
     <string name="intro_create_key_desc">Create or import a keypair to start using.</string>
     <string name="intro_message_title">Writing your first message</string>
-    <string name="intro_message_desc">No message yet. You can compose and interpret message. Message composed and interpreted in TessercubeDV keyboard will appear here</string>
-    <string name="empty_message">No message yet. \nYou can compose and interpret message. \nMessage composed and interpreted in TessercubeDV keyboard will appear here</string>
+    <string name="intro_message_desc">No message yet. \nYou can compose and interpret messages. \nMessages composed and interpreted in TessercubeDV keyboard will appear here</string>
+    <string name="empty_message">No message yet. \nYou can compose and interpret messages. \nMessages composed and interpreted in TessercubeDV keyboard will appear here</string>
     <string name="interpret_status_nothing">Nothing to interpret!</string>
     <string name="interpret_status_failed">Failed to interpret!</string>
     <string name="sign_status_no_signature">Poor message, doesn\'t have signature.</string>
     <string name="sign_status_bad">Bad signature! Possibly fake sender!</string>
-    <string name="sign_status_ok">Right Signature!</string>
-    <string name="sign_status_unknown">UnKnown sender, keep caution</string>
+    <string name="sign_status_ok">Good Signature!</string>
+    <string name="sign_status_unknown">Unknown sender, keep caution</string>
     <string name="message_unknown_sender_title">[Unknown]</string>
     <string name="message_email_expand">And <xliff:g example="0" id="count">%d</xliff:g> more (tap to expand)</string>
     <string name="message_show_full_content">Show full <xliff:g example="0" id="count">%d</xliff:g> lines</string>
@@ -74,7 +74,7 @@
     <string name="description">Description</string>
     <string name="compose">Compose</string>
     <string name="interpret">Interpret</string>
-    <string name="empty_contact">You do not have any contact yet\nAdd contacts by importing their public key</string>
+    <string name="empty_contact">You do not have any contacts yet\make some friends and import their public key</string>
     <string name="select_recipients">Select recipients</string>
     <string name="message_signed_by">Signed by:</string>
     <string name="message_recipients">Recipients:</string>
@@ -111,7 +111,7 @@
     <string name="error_pgp_message_format">Message format error!</string>
     <string name="error_public_key_format">Public key format error!</string>
     <string name="snack_share_message">Share the message right now?</string>
-    <string name="error_import_contact_already_exist">This key already exists!</string>
+    <string name="error_import_contact_already_exist">Doh! This key already exists!</string>
     <string name="compose_save_draft">Save draft?</string>
     <string name="draft">Draft</string>
     <string name="floating_new_contact_title">New Contact!</string>
