@@ -56,7 +56,6 @@ dependencies {
     implementation "moe.tlaster:floatinghover:1.0.8"
     implementation "moe.tlaster:kotlinpgp:1.0.20"
     implementation "com.romandanylyk:pageindicatorview:1.0.3"
-    debugImplementation "com.squareup.leakcanary:leakcanary-android:${dependencyVersion['leakcanary']}"
     implementation "com.github.bumptech.glide:glide:${dependencyVersion['glide']}"
     kapt "com.github.bumptech.glide:compiler:${dependencyVersion['glide']}"
     implementation "io.requery:requery:${dependencyVersion['requery']}"
