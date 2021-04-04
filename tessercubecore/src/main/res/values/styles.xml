@@ -6,18 +6,21 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:statusBarColor">?android:statusBarColor</item>
-<!--        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>-->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
     </style>
+    
     <style name="AppTheme.PlatformActivityTheme" parent="@android:style/Theme.DeviceDefault.Light">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    
     <style name="AppTheme.PlatformSettingsTheme" parent="@android:style/Theme.DeviceDefault.Settings">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    
     <style name="AppTheme.PlatformDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -30,7 +33,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:statusBarColor">?android:statusBarColor</item>
-<!--        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>-->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
     </style>
 
     <style name="ToolBar">
