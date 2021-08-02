@@ -18,7 +18,7 @@ Requirement:
 
 Clone the project
 ```
-git clone https://sovereignty.tools/Diverter/Tesserpg-Android.git
+git clone https://github.com/SecretestSquirrel/TessercubeDV-Android.git
 ```
 We're using a modified version of LatinIME as a submodule, so we need to initial the subtoolses
 ```
